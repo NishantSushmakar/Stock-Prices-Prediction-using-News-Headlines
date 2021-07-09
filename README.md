@@ -1,1 +1,1 @@
-# Stock-Prices-Prediction-using-Newsh-Headlines
+# Stock-Prices-Prediction-using-News-Headlines
